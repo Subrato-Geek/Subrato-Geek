@@ -1,20 +1,20 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Subrato+Maji+👋;Front-end+Software+Engineer;ReactJS+%7C+JavaScript+%7C+UI+Developer;Always+learning+%7C+Always+building" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#00c2ff;">Subrato Maji</span></h1>
 
-<h1 align="center">Welcome to my GitHub Profile</h1>
+<h3 align="center">
+🚀 Front-end Software Engineer | React Developer | UI Specialist  
+</h3>
 
-<!-- Links / Badges -->
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/subrato-maji-6997361a2">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:subratomaji786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://github.com/subratomaji">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:subratomaji786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.callondoc.com/en/consultation">
     <img src="https://img.shields.io/badge/CallOnDoc-1095c1?style=for-the-badge"/>
@@ -26,51 +26,58 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 style="color:#ff9800;">👨‍💻 About Me</h2>
 
-I'm **Subrato Maji**, a Front-end Software Engineer focused on building **responsive**, **performance-optimized** and **user-centric** web interfaces.
-
-- 💻 3+ years of experience in front-end development  
-- ⚛️ Working primarily with **ReactJS**, **JavaScript (ES6+)**, **HTML5**, **CSS3**, **SCSS**, **Tailwind CSS**, **Bootstrap**  
-- 🏥 Worked on real-world products like **CallOnDoc** (online doctor visit platform) and **MediaTrooper** (entertainment & ticketing)  
-- 🏆 2× Team of the Year • Employee of the Quarter  
-
----
-
-## 🧰 Tech Stack & Tools (Skill Icons)
-
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45"/>&nbsp;
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
+<p style="font-size:16px;">
+I'm a <b style="color:#00c2ff;">Front-end Software Engineer</b> with 3+ years of experience building scalable, responsive and performance-optimized web applications.  
+I specialize in developing clean, user-centric interfaces using modern web technologies.
 </p>
 
 ---
 
-## 🌍 Quick Links
+<h2 style="color:#4CAF50;">🛠 Tech Stack</h2>
 
-- 🔗 [LinkedIn](https://linkedin.com/in/subrato-maji-6997361a2)  
-- 🌐 [CallOnDoc](https://www.callondoc.com/en/consultation)  
-- 🎬 [MediaTrooper](https://www.mediatrooper.com)  
-- 📧 [Email Me](mailto:subratomaji786@gmail.com)  
+<p>
+<span style="color:#e34c26;">HTML5</span> • 
+<span style="color:#2965f1;">CSS3</span> • 
+<span style="color:#f7df1e;">JavaScript (ES6+)</span> • 
+<span style="color:#61dafb;">ReactJS</span> • 
+<span style="color:#38bdf8;">Tailwind CSS</span> • 
+<span style="color:#7952b3;">Bootstrap</span> • 
+<span style="color:#cc6699;">SASS</span>
+</p>
 
 ---
 
-<p align="center">
-  <b>✨ Always learning | Always building | Always improving ✨</b>
-</p>
+<h2 style="color:#9c27b0;">🏆 Achievements</h2>
+
+<ul>
+  <li>2× <b>Team of the Year</b> award winner</li>
+  <li><b>Employee of the Quarter</b> at Bacancy Technology</li>
+  <li>Contributed to real-world platforms like 
+    <a href="https://www.callondoc.com/en/consultation">
+      <span style="color:#00c2ff;">CallOnDoc</span>
+    </a> and 
+    <a href="https://www.mediatrooper.com">
+      <span style="color:#ff5722;">MediaTrooper</span>
+    </a>
+  </li>
+</ul>
+
+---
+
+<h2 style="color:#03a9f4;">🌍 My Links</h2>
+
+<ul>
+  <li>🔗 <a href="https://linkedin.com/in/subrato-maji-6997361a2"><span style="color:#0077b5;">LinkedIn Profile</span></a></li>
+  <li>🌐 <a href="https://www.callondoc.com/en/consultation"><span style="color:#1095c1;">CallOnDoc Project</span></a></li>
+  <li>🎬 <a href="https://www.mediatrooper.com"><span style="color:#ff5722;">MediaTrooper</span></a></li>
+  <li>📧 <a href="mailto:subratomaji786@gmail.com"><span style="color:#d14836;">subratomaji786@gmail.com</span></a></li>
+  <li>💼 <span style="color:#fdd835;">Bangalore, India</span></li>
+</ul>
+
+---
+
+<h3 align="center" style="color:#00e676;">
+✨ Always learning | Always building | Always improving ✨
+</h3>
