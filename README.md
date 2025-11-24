@@ -10,18 +10,13 @@
   <a href="https://linkedin.com/in/subrato-maji-6997361a2">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/subratomaji">
+  <a href="https://github.com/Subrato-Geek">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:subratomaji786@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.callondoc.com/en/consultation">
-    <img src="https://img.shields.io/badge/CallOnDoc-1095c1?style=for-the-badge"/>
-  </a>
-  <a href="https://www.mediatrooper.com">
-    <img src="https://img.shields.io/badge/MediaTrooper-ff5722?style=for-the-badge"/>
-  </a>
+ 
 </p>
 
 ---
@@ -29,7 +24,7 @@
 <h2 style="color:#ff9800;">👨‍💻 About Me</h2>
 
 <p style="font-size:16px;">
-I'm a <b style="color:#00c2ff;">Front-end Software Engineer</b> with 3+ years of experience building scalable, responsive and performance-optimized web applications.  
+I'm a <b style="color:#00c2ff;">Front-end Software Engineer</b> with 4+ years of experience building scalable, responsive and performance-optimized web applications.  
 I specialize in developing clean, user-centric interfaces using modern web technologies.
 </p>
 
@@ -70,8 +65,6 @@ I specialize in developing clean, user-centric interfaces using modern web techn
 
 <ul>
   <li>🔗 <a href="https://linkedin.com/in/subrato-maji-6997361a2"><span style="color:#0077b5;">LinkedIn Profile</span></a></li>
-  <li>🌐 <a href="https://www.callondoc.com/en/consultation"><span style="color:#1095c1;">CallOnDoc Project</span></a></li>
-  <li>🎬 <a href="https://www.mediatrooper.com"><span style="color:#ff5722;">MediaTrooper</span></a></li>
   <li>📧 <a href="mailto:subratomaji786@gmail.com"><span style="color:#d14836;">subratomaji786@gmail.com</span></a></li>
   <li>💼 <span style="color:#fdd835;">Bangalore, India</span></li>
 </ul>
