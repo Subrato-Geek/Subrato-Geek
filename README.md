@@ -56,7 +56,7 @@ I specialize in developing clean, user-centric interfaces using modern web techn
     <a href="https://www.callondoc.com/en/consultation">
       <span style="color:#00c2ff;">CallOnDoc</span>
     </a> and 
-    <a href="https://www.mediatrooper.com">
+    <a href="https://www.media-troopers.com/">
       <span style="color:#ff5722;">MediaTrooper</span>
     </a>
   </li>
