@@ -7,6 +7,9 @@
 ---
 
 <p align="center">
+  <a href="https://subratomaji.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00c2ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
   <a href="https://linkedin.com/in/subrato-maji-6997361a2">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -65,9 +68,11 @@ I specialize in developing clean, user-centric interfaces using modern web techn
 
 <ul>
   <li>🔗 <a href="https://linkedin.com/in/subrato-maji-6997361a2"><span style="color:#0077b5;">LinkedIn Profile</span></a></li>
+  <li>🌐 <a href="https://subratomaji.netlify.app/"><span style="color:#00c2ff;">Portfolio Website</span></a></li>
   <li>📧 <a href="mailto:subratomaji786@gmail.com"><span style="color:#d14836;">subratomaji786@gmail.com</span></a></li>
   <li>💼 <span style="color:#fdd835;">Bangalore, India</span></li>
 </ul>
+
 
 ---
 
